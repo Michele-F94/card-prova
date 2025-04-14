@@ -1,0 +1,17 @@
+* {
+    margin: 0 ;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal
+}
+.titolo{
+     text-align: center;
+     padding: 30px;
+}
+
+
